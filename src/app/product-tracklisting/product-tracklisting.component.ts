@@ -2,7 +2,7 @@ import { Component, OnInit } from '@angular/core';
 
 import { Album } from '../album';
 
-import { ProductService } '../product.service';
+import { ProductService } from '../product.service';
 
 @Component({
   selector: 'app-product-tracklisting',

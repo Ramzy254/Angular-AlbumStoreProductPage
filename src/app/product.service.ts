@@ -4,7 +4,7 @@ import { from } from 'rxjs/observable/from';
 
 import { Http, Response } from '@angular/http';
 
-import { map } from 'rxjs/add/operator/map';
+import { Map } from 'rxjs/add/operator/map';
 
 import './album';
 import { Observable } from 'rxjs/Observable';
